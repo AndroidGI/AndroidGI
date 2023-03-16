@@ -1,6 +1,6 @@
 
 
-# AndroidGin: A Tool for Experimentation with GI in ANdroid
+# AndroidGin: A Tool for Experimentation with GI in Android
 
 This is a version of the GIN tool (https://github.com/gintool/gin) reporpoused to run on Android Application
 ### Installing and Buildin
